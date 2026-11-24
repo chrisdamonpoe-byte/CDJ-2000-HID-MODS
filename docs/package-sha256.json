@@ -1,0 +1,16 @@
+{
+  "README-FIRST.txt": "388e9ff543d81cef9f78c0fe9e8fdee4034a2d121a05eb8a196e6dd4eafdfa67",
+  "VERSION.txt": "5717e7c840171019a4eeab5b79a7f894a4986eaff93d04ec5b12c9a189f594bf",
+  "Install/Firmware/C2KMAIN.UPD": "41fabccb7ad781f35362ffc0b76622e28290cc0c4451cd9f071b36c9ce16e7ab",
+  "Install/Firmware/C2KGUI.UPD": "030b8c42b8022e13435581553264286a8369fe06724ba4c1096d8d5e8222ebac",
+  "Install/Mapper/Pioneer CDJ-2000 - Enhanced Waveform.xml": "331f237f6b842e835efa4e8dfeef15e4eda2411c1743ec9a689e7b5ee9001a1b",
+  "Rollback-Previous-Look/Firmware/C2KGUI.UPD": "38c43d1668639a2380e5625036c58701dfbe6bb9bc78df9950cc918a6d2f9f18",
+  "Rollback-Last-Confirmed/Firmware/C2KMAIN.UPD": "6e73164541cdd41461eb056b8c6b94e719437d26ebc64bad2dfa99e96fee5e14",
+  "Rollback-Last-Confirmed/Firmware/C2KGUI.UPD": "ca0ac6b45c331611bfdeac21c576c53e9b7e34a28dc7685478eac4004e6e56e6",
+  "Rollback-Last-Confirmed/Mapper/Pioneer CDJ-2000 - Enhanced Waveform.xml": "6d45bc4e8efe4ea0f5d9a2d9b8054489384f2a6771da5d20e853d9c45fe0623e",
+  "Features.md": "cec2b08a111f1248509c89005001b25a1fc6e62b8682a3cbabca1c29d15d29d9",
+  "Previews/Blue.png": "4b47eaaa14d505cae66fd6ca6d946d839640ce904060801a1a363f298d68f5f3",
+  "Previews/Colored.png": "b2851f01b3e13bdf5332ab5e7fa34b1eacb82192e70ff6ac953181058fcb140e",
+  "Checks/GUI.txt": "5e6257b25c8806336b6fd4085a5bcc48c5b988e5f4224e448dd896ed333052ea",
+  "Checks/MAIN.txt": "b3009287492483138711a4166ddd642dac46e3c3c6c9a842a4fe29568c73aabc"
+}

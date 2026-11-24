@@ -1,0 +1,7 @@
+PASS all6 raw captured LP1 updates through native fragment assembler, exact bounds/tail including8/4/8/off/moved loop; native parser state/return/calls and ABI preserved.
+PASS12 malformed/overflow/out-of-order/non-LP1 inputs rejected without publication or title corruption.
+PASS all eight loop/zoom combinations reach the existing GUI payload; out-of-range zoom rejected.
+PASS zero start,1ms width,8000000ms maximum duration and explicit OFF.
+PASS complete title update clears prior loop active state; title composition retained.
+PASS loop cache follows active/OFF during USB source ownership, preventing stale LINK reentry; non-HID title still ignored.
+Scope: actual SH4 code and native fragment parser, equal existing OS/libc stubs, no physical flash.

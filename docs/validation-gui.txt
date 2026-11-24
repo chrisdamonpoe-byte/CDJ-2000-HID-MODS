@@ -1,0 +1,60 @@
+LINK_SCROLL helper and zero-filled viewport loaded at boot PASS
+PLAYER_V41 all1017939 decoded resource bytes match exact BPM+PLAYER tint reference; inactive/all unrelated assets preserved PASS
+CLONE_LOWER 48 palette/height/silence cases, received indices clamp and STATIC shader bypass PASS
+LINK_SCROLL native UTILITY row, strings, reopen and both choices PASS
+SCROLL_COLOR native selector, six switches, reopening, invalid ids, amplitudes and overview preserved PASS
+DAY_THEME UTILITY row, strings, both choices and invalid ids PASS
+LOADER_REGRESSION cached MAIN title without extension handshake PASS
+LOADER_REGRESSION waveform appears immediately without startup timer PASS
+LOADER_REGRESSION native BPM border digits and caption orange; black interior retained PASS
+PLAYER_V41 native PLAYER label border and deck number gold in final PPI PASS
+LOADER_REGRESSION full captured title plus artist parsed and drawn in existing GUI PASS
+LOADER_REGRESSION actual MAIN command26 title reaches native parser and final PPI PASS
+QUANTIZE_V43 owned waveform frame lights native red label when native default refresh is skipped; preferences/status remain OFF PASS
+BOTTOM_V40 all400x27 pixels exact, neighbor bounds/color clamp/shading/zero clear and bitmap canaries zero0 PASS
+BOTTOM_V40 all400x27 pixels exact, neighbor bounds/color clamp/shading/zero clear and bitmap canaries zero1 PASS
+BOTTOM_V40 native return and full bitmap parity hid0 owner0 PASS
+BOTTOM_V40 native return and full bitmap parity hid0 owner1 PASS
+BOTTOM_V40 native return and full bitmap parity hid1 owner0 PASS
+BOTTOM_V40 all400x27 pixels exact, neighbor bounds/color clamp/shading/zero clear and bitmap canaries zero0 PASS
+BOTTOM_V40 all400x27 pixels exact, neighbor bounds/color clamp/shading/zero clear and bitmap canaries zero1 PASS
+BOTTOM_V40 native return and full bitmap parity hid0 owner0 PASS
+BOTTOM_V40 native return and full bitmap parity hid0 owner1 PASS
+BOTTOM_V40 native return and full bitmap parity hid1 owner0 PASS
+LINK_SCROLL BLUE and COLORED bitmap parity, native fallback and independent settings PASS
+CLONE_LOWER all400 smoothed source heights, indices, edges and original input preserved PASS
+LINK_SCROLL position=1 view, centered head and original overview PASS
+CLONE_LOWER all400 smoothed source heights, indices, edges and original input preserved PASS
+LINK_SCROLL position=215 view, centered head and original overview PASS
+CLONE_LOWER all400 smoothed source heights, indices, edges and original input preserved PASS
+LINK_SCROLL position=227 view, centered head and original overview PASS
+CLONE_LOWER all400 smoothed source heights, indices, edges and original input preserved PASS
+LINK_SCROLL position=227 view, centered head and original overview PASS
+CLONE_LOWER all400 smoothed source heights, indices, edges and original input preserved PASS
+LINK_SCROLL position=215 view, centered head and original overview PASS
+CLONE_LOWER all400 smoothed source heights, indices, edges and original input preserved PASS
+LINK_SCROLL position=400 view, centered head and original overview PASS
+LINK_SCROLL tolerates either adjacent timing bin, larger mismatch uses coarse position PASS
+LINK_SCROLL finer timing within one bin, pause, seeks, both time modes and rates PASS
+LINK_SCROLL static overview and moving head, then return to scrolling PASS
+LINK cue badge preserved at cue with no dotted stem; static stem retained PASS
+LINK_SCROLL cue pixels follow the finer position PASS
+LINK_SCROLL all eight loop/zoom flags including20s, position and invalid8 PASS
+LINK_SCROLL loop pixels follow the finer position PASS
+LINK_SCROLL cue and 20ms loop start share centered playhead at all three zooms PASS
+LINK BPM actual SPORT reply renders 121.33, refreshes hundredths and clears to native PASS
+LINK paused packet holds both grid rows and 121.33 across 64 status frames PASS
+SCROLL_COLOR blue/green screenshot rendered through native UTILITY callback PASS
+DAY_THEME flip recolours every displayed pixel exactly, NIGHT restores native flip PASS
+LINK_SCROLL first orange box lights on the frame the red tick enters the playhead pixel PASS
+LINK_SCROLL counter follows grid across four beats, bar wrap, backward seek and pause without new beat packets PASS
+LINK_SCROLL captured These 4 Walls cues align at both paused positions and all zooms with a 100Hz display clock PASS
+LINK_SCROLL actual MAIN grid packet aligns downbeat at all three zooms, thins wide grid, clears in static/legacy mode PASS
+LINK_SCROLL taller eight-pixel bar and five-pixel beat ticks match across both waveform edges PASS
+LINK_SCROLL cue movement, offscreen cue and loop viewport PASS
+LINK_SCROLL MENU yields and resumes PASS
+LOADER_REGRESSION non-HID overview matches original helper bytes=21600 nonzero=14693 PASS
+LINK_SCROLL MENU, USB fallback and LINK reentry PASS
+LINK_SCROLL cleared waveform retires the viewport PASS
+Submitted 2010/2010 packets
+UPDATE_SIM (separate runs, incoming a2926f07 and 030b8c42): whole-file receive keeps the GUI running and flipping PASS
