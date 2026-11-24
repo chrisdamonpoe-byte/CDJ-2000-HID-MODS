@@ -34,3 +34,9 @@ in both modes is not recorded. The current waveform remains overview-derived;
 detailed streaming and live Quantize-state feedback are not enabled. The lit
 QUANTIZE indicator is display-only. USB cue-cache and timing limitations are
 documented in the feature guide.
+
+## Feature illustrations
+
+The repository gallery and release assets include matching Night, Day, and
+Static full-track player diagrams. STATIC shows the complete track with a moving
+playhead. These image additions do not change the firmware ZIP or mapper.

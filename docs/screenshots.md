@@ -17,6 +17,16 @@ emulator captures below for the actual Version 1.0 waveform appearance.
 Day is the existing **UTILITY → DISPLAY THEME → DAY** display setting. It uses
 a white display background; it does not change the player's hardware color.
 
+### Static full-track view (Night)
+
+![Player with static full-track waveform](images/features-static-v1.0.png)
+
+Select **UTILITY → LINK WAVEFORM → STATIC**. The whole track stays in place and
+the playhead moves through it; the lower overview remains visible. This is a
+control illustration, not a literal firmware screen capture. Its waveform has
+no added section-analysis labels. The four scrolling zoom sizes and custom grid
+ticks are scrolling-mode features.
+
 ### Corrections and additions
 
 - TIME_MODE: tap for elapsed/remaining, hold-and-release for Auto Cue, hold

@@ -58,6 +58,15 @@ varied; “about three seconds” is used for REC/CALL.
 
 <a href="docs/images/features-day-v1.0.png"><img src="docs/images/features-day-v1.0.png" alt="Version 1.0 feature diagram, Day display" width="740"></a>
 
+### Static full-track view
+
+<a href="docs/images/features-static-v1.0.png"><img src="docs/images/features-static-v1.0.png" alt="CDJ-2000 with the full-track static waveform and moving playhead" width="740"></a>
+
+STATIC keeps the complete track on screen while the playhead moves. The four
+zoom spans and added top/bottom grid ticks apply to SCROLLING mode. This
+annotated illustration shows the static waveform's existing colored appearance;
+it is not an exact emulator capture.
+
 The [original supplied diagram](docs/images/features-original.png) is also
 preserved. Its five-second annotations and eight-beat label are superseded by
 the controls documented here: the current HID 4-BEAT LOOP mapping is **loop
